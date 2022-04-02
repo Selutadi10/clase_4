@@ -1,0 +1,23 @@
+form{
+    text-align: center;  
+    background-color: chocolate;
+    width: 50%;
+    padding: 9px;
+    margin: 6px;
+    
+}
+
+    body{
+        background-color: beige;
+    }
+
+    input{
+      margin: 3px;
+      padding: 6px;
+      text-align: justify;
+      border-radius: 9px;
+    }
+
+    label{
+        text-align: left;
+    }
